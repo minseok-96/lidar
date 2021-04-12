@@ -170,13 +170,6 @@ class cloud:
 			marker.color.r = 0.5
 		return marker
 
-#loop points in that group
-					# for j in range(0,len(_groupPoints_new[group_num])):
-					# 	po=Point32()
-					# 	po.x= _groupPoints_new[group_num][j][0]
-					# 	po.y=_groupPoints_new[group_num][j][1]
-					# 	po.z=0.1
-					# 	pc.points.append(po)
 
 # main
 
